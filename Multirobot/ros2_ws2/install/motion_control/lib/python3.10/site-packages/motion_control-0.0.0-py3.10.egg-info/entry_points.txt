@@ -1,0 +1,4 @@
+[console_scripts]
+Chaser_node = motion_control.ChaserBot:main
+Leader_node = motion_control.Leader_motion:main
+
